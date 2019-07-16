@@ -1,0 +1,60 @@
+/* ## TABLE OF CONTENTS ##
+00 - BASE
+01 - LAYOUT
+02 - MODULES
+03 - STATES
+04 - THEME
+05 - FONTS
+06 - MISC
+07 - DEVICES
+*/
+
+/* ## 00 - BASE ## */
+
+h1 {
+	font-size: 64px;
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 20px;
+}
+p, a {
+	font-size: 16px;
+	text-decoration: none;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+
+/* ## 01 - LAYOUT ## */
+
+/* ## 02 - MODULES ## */
+
+/* ## 03 - STATES ## */
+
+/* ## 04 - THEME ## */
+
+/* ## 05 - FONTS ## */
+
+/* ## 06 - MISC ## */
+
+/* ## 07 - DEVICES ## */
+
+@media (min-width: 1200px) {
+	/*  ONLY DESKTOP  */	
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	/*  DESKTOP AND TABLET  */
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	/*  ONLY TABLET  */
+}
+@media (max-width: 767px) {
+	/*  ONLY MOBILE  */
+}
+@media (max-width: 480px) {
+	/*  ONLY MOBILE  */
+}

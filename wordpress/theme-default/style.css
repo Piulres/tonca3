@@ -1,0 +1,44 @@
+/*
+
+Theme Name: Theme Default
+
+Theme URI: https://github.com/Piulres/tonca3
+
+Description: Theme Default is a wordpress system using many technologies and ready to development.
+
+Author: Piulres
+
+Author URI: http://www.renanemigdio.com
+
+Text Domain: Theme Default
+
+Version: 3.0
+
+License: GNU General Public License v2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+* { margin: 0; padding: 0; border: 0; }
+ul { list-style: none; margin: 0; }
+h1, h2, h3, h4 { margin: 0px;}
+a, a:hover, a:active, a:focus { text-decoration: none; }
+html, body{ height:100%; margin:0; }
+footer { margin-top:auto; background: #c1c1c1; padding: 0 0 10px 0; }
+body { display:flex; flex-direction:column; }
+.bar {top: unset!important;bottom: 0px; }
+.list-item {padding: 10px 0; }
+.newsletter { background-color: #a1a1a1; }
+.newsletter h2 { padding: 20px 0; }
+input.newsletter, input.search { width: 100%; background: #c5c5c5; margin-bottom: 20px; padding: 0 10px; }
+input.search { margin: 0px; }
+.excerpt a { margin-top: 10px; }
+.content-header { padding: 30px 0; }
+.error-item { margin: 30px 0; }
+article h2 { padding: 50px 0; }
+.search-form { margin-bottom: 30px; }
